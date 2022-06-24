@@ -11,6 +11,12 @@
   I was able to experience how important it was to ensure error free code. The MVC format gave me an oppurtinity to use all of my Full Stack skills. There were some UI user stories which focused on styling, but most of the content focused on utilizing back end and database knowledge.
 </p>
 
-<h3>Back End Stories</h3>
+<h3>Front End Stories</h3>
 
-![image](https://user-images.githubusercontent.com/81657792/175747787-be3b8e69-8a76-4d7d-bc3a-a9a807f344a6.png)
+<h4>Create & Edit Pages Styling</h4>
+<p>
+  I styled the Create and Edit pages to reflect the client's expectations within the user story. This styling included the Submit and Back to List buttons, header above the form, placeholders in all input fields, have the form in a centered container, and have all elements match the color scheme specified by the client.
+</p>
+
+![image](https://user-images.githubusercontent.com/81657792/175748803-4ce14631-15a2-41d3-ba15-41eb5442084a.png)
+
