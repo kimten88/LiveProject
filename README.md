@@ -1,5 +1,5 @@
 <h2>LiveProjectC#</h2>
-<hr>
+
 <h3>Introduction</h3>
 
 <p>
@@ -10,8 +10,8 @@
   
   I was able to experience how important it was to ensure error free code. The MVC format gave me an oppurtinity to use all of my Full Stack skills. There were some UI user stories which focused on styling, but most of the content focused on utilizing back end and database knowledge.
 </p>
+<hr>
 
-<h3>Back End Stories</h3>
 
 <h4>Photo Storage & Retrieval for Rental Items</h4>
 <p>
@@ -30,8 +30,6 @@ The client wants the ability to add images to the model. We allow users to uploa
 
 ![image](https://user-images.githubusercontent.com/81657792/175751218-7fb37fab-200b-4cab-94bd-a5edcf5d608f.png)
 
-
-<h3>Front End Stories</h3>
 
 <h4>Create & Edit Pages Styling</h4>
 <p>
