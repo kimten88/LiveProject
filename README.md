@@ -22,12 +22,20 @@ The client wants the ability to add images to the model. We allow users to uploa
 
 ![image](https://user-images.githubusercontent.com/81657792/175750035-5c96689c-2dc7-4acc-b449-401854a23cb7.png)
 
+<h4>Display Database Items in a Table</h4>
+
+<p>
+  Using Bootstrap cards I created cards for each item in the database. The cards each had their own overlay with edit and delete links appearing only when hovering over the image. Each card is clickable, sending the user to the item details page. 
+</p>
+
+![image](https://user-images.githubusercontent.com/81657792/175751218-7fb37fab-200b-4cab-94bd-a5edcf5d608f.png)
+
 
 <h3>Front End Stories</h3>
 
 <h4>Create & Edit Pages Styling</h4>
 <p>
-  I styled the Create and Edit pages to reflect the client's expectations within the user story. This styling included the Submit and Back to List buttons, header above the form, placeholders in all input fields, have the form in a centered container, and have all elements match the color scheme specified by the client.
+  I styled the Create and Edit pages to reflect the client's expectations within the user story. This styling includes the Submit and Back to List buttons, header above the form, placeholders in all input fields, have the form in a centered container, and have all elements match the color scheme specified by the client.
 </p>
 
 ![image](https://user-images.githubusercontent.com/81657792/175748803-4ce14631-15a2-41d3-ba15-41eb5442084a.png)
