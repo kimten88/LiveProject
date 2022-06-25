@@ -11,6 +11,18 @@
   I was able to experience how important it was to ensure error free code. The MVC format gave me an oppurtinity to use all of my Full Stack skills. There were some UI user stories which focused on styling, but most of the content focused on utilizing back end and database knowledge.
 </p>
 
+<h3>Back End Stories</h3>
+
+<h4>Photo Storage & Retrieval for Rental Items</h4>
+<p>
+The client wants the ability to add images to the model. We allow users to upload files from their file system. I converted the uploaded images into a byte array and store it into the database. The byte representing the photos are able to be retrieved from the database and converted it back into an image which is displayed on View.
+</p> 
+
+![image](https://user-images.githubusercontent.com/81657792/175749938-9e066571-98e2-448a-9c3a-d423980eb8e3.png)
+
+![image](https://user-images.githubusercontent.com/81657792/175750035-5c96689c-2dc7-4acc-b449-401854a23cb7.png)
+
+
 <h3>Front End Stories</h3>
 
 <h4>Create & Edit Pages Styling</h4>
