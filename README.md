@@ -1,6 +1,6 @@
-<h2>LiveProjectC#</h2>
+<h1>LiveProjectC#</h1>
 
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 
 <p>
   I had the absolute pleasure of participating in a C# live project at my Coding Bootcamp, The Tech Academy. I collaborated in Agile Scrum environment with
@@ -13,7 +13,7 @@
 <hr>
 
 
-<h4>Photo Storage & Retrieval for Rental Items</h4>
+<h3>Photo Storage & Retrieval for Rental Items</h3>
 <p>
 The client wants the ability to add images to the model. We allow users to upload files from their file system. I converted the uploaded images into a byte array and store it into the database. The byte representing the photos are able to be retrieved from the database and converted it back into an image which is displayed on View.
 </p> 
@@ -22,7 +22,7 @@ The client wants the ability to add images to the model. We allow users to uploa
 
 ![image](https://user-images.githubusercontent.com/81657792/175750035-5c96689c-2dc7-4acc-b449-401854a23cb7.png)
 
-<h4>Display Database Items in a Table</h4>
+<h3>Display Database Items in a Table</h3>
 
 <p>
   Using Bootstrap cards I created cards for each item in the database. The cards each had their own overlay with edit and delete links appearing only when hovering over the image. Each card is clickable, sending the user to the item details page. 
@@ -31,7 +31,7 @@ The client wants the ability to add images to the model. We allow users to uploa
 ![image](https://user-images.githubusercontent.com/81657792/175751218-7fb37fab-200b-4cab-94bd-a5edcf5d608f.png)
 
 
-<h4>Create & Edit Pages Styling</h4>
+<h3>Create & Edit Pages Styling</h3>
 <p>
   I styled the Create and Edit pages to reflect the client's expectations within the user story. This styling includes the Submit and Back to List buttons, header above the form, placeholders in all input fields, have the form in a centered container, and have all elements match the color scheme specified by the client.
 </p>
